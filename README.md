@@ -1,4 +1,4 @@
-screenshots
-===========
+ss
+==
 
 My screenshots.
